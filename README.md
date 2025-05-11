@@ -1,4 +1,4 @@
-# profile
+# Codeguyrahul
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
